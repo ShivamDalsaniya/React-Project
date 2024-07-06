@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&family=Lora:ital,wght@0,400..700;1,400..700&family=Onest:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+}
+
+::-webkit-scrollbar {
+     width: 0rem;
+}
+
+html {
+     scroll-behavior: smooth;
+}
+
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+.navbar {
+     transition: backdrop-filter 0.3s ease;
+}
+
+.blurred {
+     backdrop-filter: blur(10px);
+     background: rgba(255, 255, 255, 0.2);
+}
+
+.Hero1 {
+     background: url("../Images/Banner.jpg") no-repeat;
+     background-size: cover;
+     display: flex !important;
+     align-items: center !important;
+     width: 100%;
+     height: 100vh;
+}
+
+.Hero2 {
+     background: url("../Images/Banner1.jpg") no-repeat;
+     background-size: cover;
+     width: 100%;
+     height: 100vh;
+     display: flex !important;
+     align-items: center !important;
+}
+
+.Hero3 {
+     background: url("../Images/Banner3.png") no-repeat;
+     background-size: cover;
+     height: 100vh;
+     /* padding: 0px 15px; */
+     display: flex !important;
+     align-items: center !important;
+}
+
+.Coziness {
+     background: url("../Images/Coziness.jpg") no-repeat;
+     background-size: 100% 100%;
+     height: 350px;
+}
+
+.Breezy {
+     background: url("../Images/Breezy.jpg") no-repeat;
+     background-size: 100% 100%;
+     height: 350px;
+}
+
+.Hawai {
+     background: url("../Images/Banner3.png") no-repeat;
+     background-size: 100% 100%;
+     height: 320px;
+}
+
+.Print {
+     background: url("../Images/Printed.png") no-repeat;
+     background-size: 100% 100%;
+     height: 320px;
+}
+
+.Cargo {
+     background: url("../Images/Cargo.png") no-repeat;
+     background-size: 100% 100%;
+     height: 320px;
+}
+
+.Urban {
+     background: url("../Images/BlueShirt.png") no-repeat;
+     background-size: 100% 100%;
+     height: 340px;
+}
+
+.Oversize {
+     background: url("../Images/Oversize.png") no-repeat;
+     background-size: 100% 100%;
+     height: 340px;
+}
+
+.Fashion {
+     background: url("../Images/Fashion.png") no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+}
+
+.Bg-img {
+     background: url("../Images/Group.png") no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+}
+
+.slick-next {
+     display: none !important;
+}
+
+/* Shop Page CSS  */
+.grid-filter-column {
+     grid-template-columns: 0.2fr 1fr;
+}
+
+/* Shop Page CSS Ends Here */
+
+@media screen and (min-width:768px) and (max-width:991px) {
+     .nav-menu {
+          display: none;
+     }
+     .icons-menu{
+          display: none;
+     }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+     .nav-menu {
+          display: none;
+     }
+     .icons-menu{
+          display: none;
+     }
+}
+
+@media screen and (min-width:320px) and (max-width:575px) {
+     .nav-menu {
+          display: none;
+     }
+
+     .icons-menu {
+          display: none;
+     }
+}

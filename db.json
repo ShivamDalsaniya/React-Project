@@ -1,0 +1,1126 @@
+{
+  "addproduct": [
+    {
+      "img": "https://m.media-amazon.com/images/I/71Ffoy9+CYL._SY879_.jpg",
+      "name": "Allen Solly",
+      "oldprice": "1999",
+      "price": "929",
+      "title": "Allen Solly Men's Shirt",
+      "description": "Product type: Shirt\nPattern: Stripe\nOccasion: Formal\nFit: Slim Fit\nSleeve: Long Sleeve",
+      "category": "Man",
+      "id": "f206"
+    },
+    {
+      "id": "f243",
+      "img": "https://m.media-amazon.com/images/I/7197tF7hkrL._SX569_.jpg",
+      "name": "Peter England ",
+      "oldprice": "1799",
+      "price": "919",
+      "title": "Peter England Men's Regular Fit Shirt",
+      "description": "Product type: Shirt\nPattern: Solid\nOccasion: Formal\nFit: Regular Fit\nSleeve: Long Sleeve",
+      "category": "Man"
+    },
+    {
+      "id": "dd6e",
+      "img": "https://m.media-amazon.com/images/I/71q6k2FetDL._SY879_.jpg",
+      "name": "Van Heusen",
+      "oldprice": "1999",
+      "price": "979",
+      "title": "Van Heusen Men's Cotton Chequered Fashion Slim Fit Formal Shirt",
+      "description": "Check\nFormal\nRegular Collar\nFull Sleeves",
+      "category": "Man"
+    },
+    {
+      "id": "35e8",
+      "img": "https://m.media-amazon.com/images/I/61GdgIOnQUL._SX679_.jpg",
+      "name": "U.S. POLO",
+      "oldprice": "2229",
+      "price": "1563",
+      "title": "U.S. POLO ASSN. Men's Regular Fit Shirt",
+      "description": "Cutaway collar\nChest patch pocket with embroidered logo\nFull button placket\nLong sleeves with rounded cuffs\nCurved hemline",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/51SwZk6Na-L._SX679_.jpg",
+      "name": "Scott International",
+      "oldprice": "1699",
+      "price": "799",
+      "title": "Scott International Shirt for men, Solid Full Sleeves shirt, Wrinkle Free Mens shirts, Cotton Formal Shirts",
+      "description": "Premium Quality Material : The shirt for men are made from high quality Fil-A-Fil cotton, breathable fabric for all day comfort .",
+      "category": "Man",
+      "id": "dd4a"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71QrkXBPABL._SY741_.jpg",
+      "name": "GRECIILOOKS",
+      "oldprice": "2299",
+      "price": "479",
+      "title": "GRECIILOOKS Men's Regular Fit Shirt",
+      "description": "Perfect For : Perfect Gift You Can Gift This Shirt to You Friend, Father, Grandfather, Boyfriend on Birthday, Festivals. ",
+      "category": "Man",
+      "id": "e1f9"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/618LbDYIVRL._SY879_.jpg",
+      "name": "Indo Primo",
+      "oldprice": "1999",
+      "price": "499",
+      "title": "IndoPrimo Men's Cotton Casual Regular Fit Green Checks Shirt for Men Full Sleeves - Harley",
+      "description": "Soft Touch Cotton Fabrics: Good capability of tenderness, air permeability and moisture absorption feels soft and comfy\n",
+      "category": "Man",
+      "id": "7cfd"
+    },
+    {
+      "id": "3b45",
+      "img": "https://m.media-amazon.com/images/I/81MxL9rNYFL._SY879_.jpg",
+      "name": "Lymio ",
+      "oldprice": "2299",
+      "price": "379",
+      "title": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt",
+      "description": "Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt\nStyle:Casual\nNeckline:Collar\nSleeve Length:Short Sleeve\nReguler Fit\n",
+      "category": "Man"
+    },
+    {
+      "id": "08db",
+      "img": "https://m.media-amazon.com/images/I/616VuRO-4yL._SY879_.jpg",
+      "name": "Van Heusen",
+      "oldprice": "999",
+      "price": "379",
+      "title": "Van Heusen Men's T-Shirt",
+      "description": "Graphic Print\nCasual\nCrew Neck\nHalf Sleeves",
+      "category": "Man"
+    },
+    {
+      "id": "bc59",
+      "img": "https://m.media-amazon.com/images/I/61CTj-K0GiL._SX679_.jpg",
+      "name": "Jockey",
+      "oldprice": "399",
+      "price": "279",
+      "title": "Jockey Men's Inner Regular Fit T Shirt",
+      "description": "Style Number - MC06\n100% Super Combed Cotton Fabric\nFabric Composition : Cotton\nExtended Length for Easy Tuck In\nHalf Sleeve",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/51d6wWFtkcL._SY879_.jpg",
+      "name": "Levi's",
+      "oldprice": "579",
+      "price": "413",
+      "title": "Levi's Men's Regular Fit T-Shirt",
+      "description": "Cotton Blend: This easy-to-maintain T-shirt in a naturally absorbent and breathable cotton blend is an ideal choice for warmer days.",
+      "category": "Man",
+      "id": "c8f0"
+    },
+    {
+      "id": "365b",
+      "img": "https://m.media-amazon.com/images/I/81-LAxPdZ+L._SY879_.jpg",
+      "name": "Allen Solly",
+      "oldprice": "1199",
+      "price": "699",
+      "title": "Allen Solly Men's Regular Fit Polo",
+      "description": "Occasion : Casual\nFit : Regular Fit\nMaterial : 60% Cotton and 40% Polyester\nNeck : Polo Neck\nPattern : Solid",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/51KSqNXmDjL._SX679_.jpg",
+      "name": "U.S. POLO",
+      "oldprice": "749",
+      "price": "524",
+      "title": "U.S. POLO ASSN. Men's Regular Fit T-Shirt",
+      "description": "Ribbed crew neck ensures shape retention that withstands repeated wash and wear\nShort sleeves for easy and unrestricted movement\nThe product is tagless to provide a smooth surface.",
+      "category": "Man",
+      "id": "9097"
+    },
+    {
+      "id": "bd58",
+      "img": "https://m.media-amazon.com/images/I/71p1L+iAYuL._SX569_.jpg",
+      "name": "U.S. POLO ASSN.",
+      "oldprice": "899",
+      "price": "539",
+      "title": "U.S. POLO ASSN.",
+      "description": "Round neck tshirts",
+      "category": "Man"
+    },
+    {
+      "id": "7046",
+      "img": "https://m.media-amazon.com/images/I/51v3XWC7jOL._SY879_.jpg",
+      "name": "Allen Solly",
+      "oldprice": "799",
+      "price": "559",
+      "title": "Allen Solly Men's T-Shirt",
+      "description": "Snug Fit\nCasual\nHalf Sleeves\nMaterial Composition: Cotton; Material Type: Cotton; Collar Style: Club Collar; Closure Type: Pull On; Pattern Type: Solid; Fit Type: Regular Fit",
+      "category": "Man"
+    },
+    {
+      "id": "c2e1",
+      "img": "https://m.media-amazon.com/images/I/51iwwgPZ7BL._SX679_.jpg",
+      "name": "Levi's",
+      "oldprice": "1199",
+      "price": "540",
+      "title": "Levi's Men's Regular Fit Brand Logo T-Shirt",
+      "description": "Men's Orange Crew Neck T-Shirt",
+      "category": "Man"
+    },
+    {
+      "id": "be10",
+      "img": "https://m.media-amazon.com/images/I/61IVTCiVkuL._SX679_.jpg",
+      "name": "Monte Carlo",
+      "oldprice": "3565",
+      "price": "2600",
+      "title": "Monte Carlo Mens Solid Hooded Neck Full Sleeve Casual Sweatshirt",
+      "description": "Fabric:- Cotton Blend\nPattern:- Solid\nNeck:- Hooded Neck\nSleeve:- Full Sleeve\nWash Care:- Machine Wash",
+      "category": "Man"
+    },
+    {
+      "id": "129f",
+      "img": "https://m.media-amazon.com/images/I/51xGLEsR+IL._SX679_.jpg",
+      "name": "Puma",
+      "oldprice": "4999",
+      "price": "2999",
+      "title": "Puma Men's Cotton Hooded Neck Sweatshirt",
+      "description": "Style Name:-Sweat\nModel Name:-Classics Hoodie\nBrand Color:-Dark Jasper\nMaterial:-Cotton\nActivity:-Prime/Select",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61CY9WCPHAL._SX569_.jpg",
+      "name": "ADRO",
+      "oldprice": "2799",
+      "price": "799",
+      "title": "ADRO Men Hooded Sweatshirt",
+      "description": "High-Quality Material: Made from premium cotton fleece fabric (340 GSM) for superior comfort and durability.\nSoft and Cozy.\n",
+      "category": "Man",
+      "id": "3292"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71x15gESB2L._SY879_.jpg",
+      "name": "Lymio ",
+      "oldprice": "4999",
+      "price": "599",
+      "title": "Lymio Hoodies || Sweatshirt for Unisex || Unisex Hoodie",
+      "description": "Women Hoodies || sweatshirt for Unisex || Unisex Hoodie\nActual Products color may vary with product due to monitor settings\nWash.",
+      "category": "Man",
+      "id": "7fc5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/617ZPVP7qhL._SY879_.jpg",
+      "name": "Fanideeaz",
+      "oldprice": "3499",
+      "price": "599",
+      "title": "fanideaz Mens Cotton Graphic Printed Hooded Sweatshrits for Men",
+      "description": "Fabric: Fabric is made of 78% Cotton and 22% Polyester; Premium Export Quality Branded Sweatshirt.",
+      "category": "Man",
+      "id": "88bb"
+    },
+    {
+      "id": "0b5e",
+      "img": "https://m.media-amazon.com/images/I/51Awg89kNlL._SY879_.jpg",
+      "name": "BEARDO",
+      "oldprice": "1499",
+      "price": "399",
+      "title": "BEARDO Lion Heart Hoodie Green",
+      "description": "Trendy printed art on front and back\nDrawstring hoodie to shield you from the cold\nA front pouch to keep those hands warm",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61hkiRgYppL._SY879_.jpg",
+      "name": "TOPLOT",
+      "oldprice": "2999",
+      "price": "599",
+      "title": "TOPLOT Unisex Woolen Blend Hooded Neck Hoodie",
+      "description": "Soft and Breathable Fabric: Crafted Hooie from Wool Blend soft and breathable that keep you Warm and comfortable throughout the day.",
+      "category": "Man",
+      "id": "9a65"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61nYN1LrDRL._SY879_.jpg",
+      "name": "Fanideaz",
+      "oldprice": "3499",
+      "price": "949",
+      "title": "fanideaz Mens Cotton Graphic Printed Hooded Sweatshrits for Men",
+      "description": "Sleeve Type: Full Sleeve Hoodies ; Closure type: Drawstring; Fitting Type: Regular Fit Sweatshirts; Pockets : Yes, Kangaroo Pocket.",
+      "category": "Man",
+      "id": "fd40"
+    },
+    {
+      "id": "d8d7",
+      "img": "https://m.media-amazon.com/images/I/716GpjoNkOL._SY695_.jpg",
+      "name": "Puma",
+      "oldprice": "6999",
+      "price": "5829",
+      "title": "Puma mens Softride Enzo Evo Walking Shoe",
+      "description": "Style Name:-Walking Shoe\nModel Name:-Softride Enzo Evo\nBrand Color:-Puma Black-CASTLEROCK\nActivity Group:-Running\nCare Instructions:-Wipe with a clean dry cloth",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81jS60ojx3L._SX695_.jpg",
+      "name": "Nike",
+      "oldprice": "7095",
+      "price": "5605",
+      "title": "Nike Mens Renew Elevate IiiRunning Shoe",
+      "description": "NIKE RENEW ELEVATE III",
+      "category": "Man",
+      "id": "7260"
+    },
+    {
+      "id": "e56e",
+      "img": "https://m.media-amazon.com/images/I/61Nu1yvj6OL._SY695_.jpg",
+      "name": "Adidas",
+      "oldprice": "8999",
+      "price": "5711",
+      "title": "adidas Mens Alphabounce +Running Shoe",
+      "description": "Upper Material-Synthetic\nFastening-Lace up\nOutsole Type-Marking\nAnkle Height-Low\nArch Type-Medium",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/7116DVkEANL._SY695_.jpg",
+      "name": "CAMPUS",
+      "oldprice": "2299",
+      "price": "1299",
+      "title": "Campus Mens Terminator (N) Running Shoes",
+      "description": "Shoes' Upper- These men's shoes are ideal for everyday wear with their breathable mesh upper, ensuring your feet stay dry and comfortable.",
+      "category": "Man",
+      "id": "1b47"
+    },
+    {
+      "id": "bdda",
+      "img": "https://m.media-amazon.com/images/I/41dXa2CVvPL.jpg",
+      "name": "Reebook",
+      "oldprice": "2599",
+      "price": "1564",
+      "title": "Reebok Mens Energy Runner Lp Running Shoes",
+      "description": "Synthetic",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61Z7TB8SYJL._SX695_.jpg",
+      "name": "BATA",
+      "oldprice": "1599",
+      "price": "1199",
+      "title": "BATA Power Men's Sports Shoes",
+      "description": "Sole: Manmade\nClosure: Lace Up\nOuter Material : Synthetic\nInner Material : Synthetic\nSole Material : Phylon",
+      "category": "Man",
+      "id": "7168"
+    },
+    {
+      "id": "f550",
+      "img": "https://m.media-amazon.com/images/I/81xJyfpldXL._SX695_.jpg",
+      "name": "Woodland",
+      "oldprice": "3895",
+      "price": "1899",
+      "title": "Woodland Mens G 40777cma Sneaker",
+      "description": "This product is handmade, and may have slight differences in stitching compared to the image",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81K1CT3bzJL._SX695_.jpg",
+      "name": "Red Chief",
+      "oldprice": "4045",
+      "price": "3343",
+      "title": "Redchief Men's Leather Trekking and Hiking Footwear",
+      "description": "Material: Leather\nLifestyle: Casual\nClosure Type: Lace-Up\nWarranty Type: Manufacturer\nProduct Warranty against manufacturing defects: 90 days",
+      "category": "Man",
+      "id": "b6bd"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81k99-CSpXL._SX695_.jpg",
+      "name": "Red Chief",
+      "oldprice": "5299",
+      "price": "2437",
+      "title": "Red Chief Leather Formal Derby Shoes for Men",
+      "description": "Shoes are made from very high-quality material, we never compromise with quality, are fully dedicated to providing the highest quality product.",
+      "category": "Man",
+      "id": "fce3"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/512DF3+bGnL._SY695_.jpg",
+      "name": "LOUIS STITCH",
+      "oldprice": "6999",
+      "price": "2349",
+      "title": "LOUIS STITCH Men's Italian Leather Shoes Handmade Formal Lace Up Derbies for Men",
+      "description": "Handmade from the World's Finest Italian Leather which makes it ultra-durable, elegant & timeless. A Cork filling allows the shoe to breathe and mold to the shape of your foot. ",
+      "category": "Man",
+      "id": "d678"
+    },
+    {
+      "id": "e8af",
+      "img": "https://m.media-amazon.com/images/I/714ckrRfiUL._SX695_.jpg",
+      "name": "Hush Puppies",
+      "oldprice": "3299",
+      "price": "2210",
+      "title": "Hush Puppies Men's AARON DERBY E 23 Formal",
+      "description": "Comfortable and breathable\nColor Black\nMaterial Leather\nClean with dry clothes",
+      "category": "Man"
+    },
+    {
+      "id": "bb72",
+      "img": "https://m.media-amazon.com/images/I/41HoAyoTK8L._SY695_.jpg",
+      "name": "Hitz",
+      "oldprice": "5395",
+      "price": "3075",
+      "title": "HITZ Men's Black Leather Casual Shoes",
+      "description": "Product warranty against manufacturing defects: 30 days\nWarranty Type: Manufacturer",
+      "category": "Man"
+    },
+    {
+      "id": "2ef6",
+      "img": "https://m.media-amazon.com/images/I/715Y7RK7p2L._SY695_.jpg",
+      "name": "Aldo",
+      "oldprice": "16999",
+      "price": "6799",
+      "title": "Aldo TERIMOND220 Men Brown Oxford Shoes",
+      "description": "Solid tone formal leather oxford shoes\nGenuine leather upper - Genuine leather and recycled polyester insole\nRubber outsole\nRound toe\nLace up fastening",
+      "category": "Man"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71klz3i3VwL._SY695_.jpg",
+      "name": "Eggos",
+      "oldprice": "3495",
+      "price": "3220",
+      "title": "egoss Stretch Premium Genuine Leather Derby Formal Shoes for Men-GS-347",
+      "description": "Exceptional Craftsmanship: Step into sophistication with our genuine leather derby shoes, meticulously crafted to perfection. ",
+      "category": "Man",
+      "id": "a4ef"
+    },
+    {
+      "id": "7de6",
+      "img": "https://m.media-amazon.com/images/I/81m7i0NuGQL._SX695_.jpg",
+      "name": "Lee Cooper",
+      "oldprice": "3299",
+      "price": "2804",
+      "title": "Lee Cooper Mens Lc1246ntan Formal Shoes",
+      "description": "Outer Material: Leather\nClosure Type: Lace-Up\nToe Style: Round Toe\nWarranty Type: Manufacturer\nWarranty Description: 30 days",
+      "category": "Man"
+    },
+    {
+      "id": "f7b6",
+      "img": "https://m.media-amazon.com/images/I/71DQSY44TtL._SX695_.jpg",
+      "name": "Woodland",
+      "oldprice": "3695",
+      "price": "3325",
+      "title": "Woodland mens Gf 4141021 Sneaker",
+      "description": "MENS CLASSICS LACES",
+      "category": "Man"
+    },
+    {
+      "id": "f354",
+      "img": "https://m.media-amazon.com/images/I/51f0gIYCcSL._SL1000_.jpg",
+      "name": "Fossil",
+      "oldprice": "14495",
+      "price": "8697",
+      "title": "Fossil Men Stainless Steel Grant Chronograph Analog Black Dial Watch - Fs4832, Band Color-Black",
+      "description": "Case size: 44mm; Band size: 22mm; quartz movement with 3-hand analog display; mineral crystal face\nBlack plated stainless steel case; black dial without date window\nBlack plated stainless steel bracelet with fold-over clasp with double push button safety closure; interchangeable with Fossil 22mm watch straps\nWater resistant to 165 feet (50 M): suitable for short periods of exposure to water i.e washing hands or showering/bathing. Not suitable for recreational swimming, diving or snorkeling. Circumference - 200+/- 5MM\nWarranty type:Manufacturer; 2 Years Warranty",
+      "category": "Man"
+    },
+    {
+      "id": "3b1b",
+      "img": "https://m.media-amazon.com/images/I/61MFwxMjk9L._SL1001_.jpg",
+      "name": "Armani Exchange",
+      "oldprice": "14495",
+      "price": "8997",
+      "title": "Armani Exchange Analog Black Dial Silver Band Men's Stainless Steel Watch-AX2600",
+      "description": "Dial Color: Black, Case Shape: Round\nBand Color: Silver, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nCase Material: Stainless Steel, Case Diameter: 44 millimeters\n2 years international warranty\nRemove plastic at crown to start the watch",
+      "category": "Man"
+    },
+    {
+      "id": "d62c",
+      "img": "https://m.media-amazon.com/images/I/51Lis93nCoL._SX679_.jpg",
+      "name": "Titan",
+      "oldprice": "12345",
+      "price": "9800",
+      "title": "Titan Regalia Chronograph Silver Dial Men's Watch-NN9308BM01",
+      "description": "Dial Color: Silver, Case Shape: Round, Dial Glass Material: Mineral. The case length is 53.4 mm and the case thickness is 10.10 mm\nBand Color: Multi-Color, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Chronograph\nCase Material: Stainless Steel, Lock Mechanism: Deployment Clasp\nWater Resistance Depth: 30 meters;case Length(6H-12H) (mm):53.40 mm; case Width(3H-9H) 42.20 mm\nWarranty type:Manufacturer; 24 Months Manufacturer Warranty",
+      "category": "Man"
+    },
+    {
+      "id": "10f2",
+      "img": "https://m.media-amazon.com/images/I/61DRTh8Md8L._SY879_.jpg",
+      "name": "Casio",
+      "oldprice": "16800",
+      "price": "10995",
+      "title": "Casio Edifice Chronograph Multi-Color Dial Men's Watch - EF-539D-1AVDF",
+      "description": "Dial Color: Multi-Colour, Case Shape: Round, Dial Glass material: Mineral\nBand Color: Silver, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nCase Material: Stainless Steel\nBuckle Clasp\nTachymeter, Screw Lock Back",
+      "category": "Man"
+    },
+    {
+      "id": "0ef6",
+      "img": "https://www.rado.com/media/catalog/product/h/y/hyperchrome_r32155303_sld_web.png?im=AspectCrop=(1980,1980),allowExpansion,location=(0.5,0.5);Resize=(1980,1980),aspect=fill;Crop=(0,0,1980,1980),gravity=Center",
+      "name": "RADO",
+      "oldprice": "250000",
+      "price": "127400",
+      "title": "HyperChrome",
+      "description": "Dynamic, sleek and sporty, the HyperChrome Quartz is designed to look good dressed up or dressed down. With its bezel in green High-Tech Ceramic, the HyperChrome Quartz is an elegant chameleon.",
+      "category": "Man"
+    },
+    {
+      "id": "137d",
+      "img": "https://m.media-amazon.com/images/I/61z1Kvc-MbL._SX679_.jpg",
+      "name": "Rolex",
+      "oldprice": "25000",
+      "price": "19999",
+      "title": "Entiq Rolx Submariner 116618 Blue Dial",
+      "description": "Dial: Blue w/ Chromalight hands and hour markers\nBracelet: Gold Oyster w/ Folding Oysterlock safety clasp and Glidelock extension system\nCase: Gold Color (40mm) unidirectional rotatable bezel, blue Cerachrom insert in ceramic, inner reflector ring engraved w/ serial number and scratch resistant sapphire crystal\nMovement: Automatic 3135\nModel Name/Number: Submariner ref 116618",
+      "category": "Man"
+    },
+    {
+      "id": "4e9f",
+      "img": "https://m.media-amazon.com/images/I/71+QsRf1NXL._SX679_.jpg",
+      "name": "Victorinox",
+      "oldprice": "68700",
+      "price": "61730",
+      "title": "Victorinox Analogue Men's Watch (Black Dial)",
+      "description": "Dial Color: Green\nBezel Function: Unidirectional\nDial Window Material Type: Sapphire Crystal",
+      "category": "Man"
+    },
+    {
+      "id": "afc2",
+      "img": "https://m.media-amazon.com/images/I/811NlC5kGOL._SX679_.jpg",
+      "name": "GC",
+      "oldprice": "55,450",
+      "price": "49,995",
+      "title": "Gc Mens 44 mm Black Dial Stainless Steel Analog Watch",
+      "description": "Case Color: Black & Rose Gold, Case Material: Stainless Steel\nCase Shape: Round, Strap Material: Stainless Steel\nGuess Gc One\nMovement: Swiss Movement - MIF\nDisplay: Analog, Glass Material: Mineral Crystal",
+      "category": "Man"
+    },
+    {
+      "id": "548f",
+      "img": "https://m.media-amazon.com/images/I/91Y5tbDXlFL._SX569_.jpg",
+      "name": "BIBA",
+      "oldprice": "2999",
+      "price": "1199",
+      "title": "BIBA Polyester Women's Regular A-Line Flared Kurta",
+      "description": "Color: Teal\nCare Instructions: Hand Wash Only\nMaterial: Polyester\nPackage Contents: Shirt\nDepartment: Women\nKurta",
+      "category": "Women"
+    },
+    {
+      "id": "12d8",
+      "img": "https://m.media-amazon.com/images/I/711SyvlC08L._SY879_.jpg",
+      "name": "Aurelia",
+      "oldprice": "2699",
+      "price": "1360",
+      "title": "Aurelia Women Kurta & Cullote",
+      "description": "Fabric Composition: 100% Viscose\nColor: Air Blue\nSleeve Length: Three-Quarter Sleeves\nNeck Style: Round Neck\nPackage Content: 1 Kurta & Culotte",
+      "category": "Women"
+    },
+    {
+      "id": "258a",
+      "img": "https://m.media-amazon.com/images/I/71iwhn0t7cL._SY879_.jpg",
+      "name": "INDO ERA",
+      "oldprice": "2199",
+      "price": "599",
+      "title": "INDO ERA Women's Cotton Embllished A-Line Kurta/Kurti",
+      "description": "Color : Blue || Fabric : Cotton\nStyle : A-Line || Length : Calf Length\nSleeves : Sleeveless || Neck : Square Neck\nFront Length : 46.5 Inches || Sleeve Length : 0 Inches\nPrint & Pattern : Floral || Work : Embllished\nPackage Contents : 1 Kurtas/Kurtis",
+      "category": "Women"
+    },
+    {
+      "id": "1ea0",
+      "img": "https://m.media-amazon.com/images/I/61nqaMGDErL._SY879_.jpg",
+      "name": "Rangita",
+      "oldprice": "1599",
+      "price": "649",
+      "title": "rangita Rayon Calf Length Printed Flared Kurti for Women | Kurta for Women",
+      "description": "Rangita's diverse and latest collection of kurti sets features straight kurtas, A-line kurtas, anarkali kurtas and flared kurtas. Crafted from quality fabrics like cotton, rayon, polyester and chanderi, these materials ensure both comfort and durability, making them suitable for all occasions like casual, work and festive wear. Available in S-36 inches, M-38 inches, L-40 inches, XL-42 inches, 2XL-44 inches, 3XL-46 inches & 4XL-48 inches sizes that comes in variety of colours and patterns.",
+      "category": "Women"
+    },
+    {
+      "id": "4d2c",
+      "img": "https://m.media-amazon.com/images/I/81XfFVKW9JL._SY879_.jpg",
+      "name": "Janasya",
+      "oldprice": "1549",
+      "price": "649",
+      "title": "Janasya Women's Poly Crepe Jacket Style A-line Kurta",
+      "description": "Fabric: Poly Crepe (100% Polyester)\nStyle:- Length: 47(inch) | Pattern: Foil Print | Occasion: Casual | Type: A-line | Sleeve Type: 3/4 Sleeves Regular Sleeves | Color: Blue\nPacket contain: 1 Readymade kurta\nDeclaration: Please choose a garment size that is two inches more than your body measurement. e.g:- for bust size -36 inch, select garment size - Medium (M). There might be slight variation in the actual color of the product due to different screen resolutions.\nRemark: Accessories are just for presentation, it is not included with this product.",
+      "category": "Women"
+    },
+    {
+      "id": "bc5e",
+      "img": "https://m.media-amazon.com/images/I/81NysFjOlxL._SY879_.jpg",
+      "name": "Indya",
+      "oldprice": "2650",
+      "price": "1325",
+      "title": "Indya Womens Round Neck Embellished Kurta",
+      "description": "Color Name: Pink\nMaterial: Georgette with sleeveless\nA-line\nAnkle length\nHand wash",
+      "category": "Women"
+    },
+    {
+      "id": "f196",
+      "img": "https://m.media-amazon.com/images/I/615pT5Wg1EL._SY879_.jpg",
+      "name": "MEERA FAB",
+      "oldprice": "1999",
+      "price": "573",
+      "title": "MEERA FAB Women's Printed Kurta & Palazzo Set",
+      "description": "Please Click Above Brand Name \"MEERA FAB\" For More Products ( Kurta , Kurti And Kurti Palazzo Pant Set || Available Sizes Are S,M,L,XL,2XL,3XL, 4XL, 5XL, 6XL )Size Chart:- M=38in , L=40 in , XL=42 in, XXL=44 in",
+      "category": "Women"
+    },
+    {
+      "id": "504d",
+      "img": "https://m.media-amazon.com/images/I/61XNw6XPIkL._SY879_.jpg",
+      "name": "GoSriKi",
+      "oldprice": "2599",
+      "price": "799",
+      "title": "GoSriKi Women Kurta with Pant & Dupatta",
+      "description": "This set includes: 1 Kurta with 1 Pant & 1 Dupatta || Work :Kurta Solid,Bottom Printed and Dupatta Printed || Neck Type : Mandarin/Chinese Neck\nOcassion: Traditional wear, Casual Wear, party wear, evening wear,Please Click On Brand Name \"GoSriKi\" For More Products.\nProduct Color May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings",
+      "category": "Women"
+    },
+    {
+      "id": "958d",
+      "img": "https://m.media-amazon.com/images/I/61baOCxlM4L._SY879_.jpg",
+      "name": "Allen Solly",
+      "oldprice": "3650",
+      "price": "2499",
+      "title": "Allen Solly Women's Regular Fit Shirt",
+      "description": "Product type: Shirt\nPattern: Embroidered\nOccasion: Casual\nFit: Regular Fit\nSleeve: Long Sleeve",
+      "category": "Women"
+    },
+    {
+      "id": "e63c",
+      "img": "https://m.media-amazon.com/images/I/61cf5noIUXL._SY879_.jpg",
+      "name": "Van Heusen",
+      "oldprice": "3780",
+      "price": "2540",
+      "title": "Van Heusen Women Regular Fit Shirt",
+      "description": "Pattern :Check\nCollar :Regular Collar",
+      "category": "Women"
+    },
+    {
+      "id": "389f",
+      "img": "https://m.media-amazon.com/images/I/71ww9jA4qBL._SY879_.jpg",
+      "name": "Marks & Spencer",
+      "oldprice": "3250",
+      "price": "2687",
+      "title": "Marks & Spencer Womens Solid Linen Blend Collared Neck Regular Fit Shirt",
+      "description": "Look effortlessly stylish this season with the pink pure linen safari shirt by Marks & Spencer. The safari-style design is given a contemporary update with a soft khaki hue. The shirt is made from 100% linen, which is soft, breathable, and perfect for keeping cool on warm days.",
+      "category": "Women"
+    },
+    {
+      "id": "9048",
+      "img": "https://m.media-amazon.com/images/I/514Wf7vaGiL._SY879_.jpg",
+      "name": "Van Heusen",
+      "oldprice": "2780",
+      "price": "2499",
+      "title": "Van Heusen Women's Regular Fit Shirt",
+      "description": "Product type: Shirt\nPattern: Textured\nOccasion: Formal\nFit: Regular Fit\nSleeve: Long Sleeve",
+      "category": "Women"
+    },
+    {
+      "id": "a9cf",
+      "img": "https://m.media-amazon.com/images/I/518hz53HmjL._SY879_.jpg",
+      "name": "Allen Solly",
+      "oldprice": "3000",
+      "price": "2256",
+      "title": "Allen Solly Women's Shirt",
+      "description": "Product type: Shirt\nPattern: Solid\nOccasion: Formal\nFit: regular\nSleeve: 3/4 Sleeve",
+      "category": "Women"
+    },
+    {
+      "id": "bb44",
+      "img": "https://m.media-amazon.com/images/I/813vnTYGI9L._SY741_.jpg",
+      "name": "ONLY",
+      "oldprice": "5250",
+      "price": "3499",
+      "title": "ONLY Women's Shirt",
+      "description": "Material Care:: 100% Cotton, Machine Wash\nFit Type:: Regular Fit\nNeck Type:: Button Down Collar\nSleeve Type:: Cuffed Sleeves\nPattern Type:: Solid",
+      "category": "Women"
+    },
+    {
+      "id": "dcda",
+      "img": "https://m.media-amazon.com/images/I/719b5H5wWgL._SX679_.jpg",
+      "name": "Indietoga",
+      "oldprice": "2655",
+      "price": "755",
+      "title": "Indietoga Women's Rayon Casual Chekered Shirts",
+      "description": "Fabric : 100% Cotton Breathable Fabric, very soft and comfortable shirt.\nStyle: Plus Size Red and Black Checkered Shirt has a coat collar V-neck design, long roll-up sleeve with button tab, one flap pocket shirts, and curved hemline\nFit Type: Slim Fit\nIt's a super breathable and soft cotton shirt, light weight, coat collar front vintage slim fit tunic classic shirt top.\nOccasion : Perfect for your daily wear, outdoor activity, dates and parties….And your occasion is perfect in spring, summer and fall.",
+      "category": "Women"
+    },
+    {
+      "id": "e008",
+      "img": "https://m.media-amazon.com/images/I/61ffmaNHdEL._SX679_.jpg",
+      "name": "SAADAA",
+      "oldprice": "2339",
+      "price": "1199",
+      "title": "SAADAA Airy Linen Shirt | Shirt for women | Solid Casual Women's Shirt | Regular Fit Casual Shirts Stylish for Women",
+      "description": "Stay Formal with SAADAA's Airy Linen Shirts:- Enhance your wardrobe with Saadaa's Airy Linen Shirts, perfect for women seeking a blend of elegance and comfort. Ideal for formal, casual, and office wear.\nBreathable Cotton Linen Blend Fabric: Experience all-day comfort with our breathable cotton linen blend fabric. Stay cool and relaxed in any setting, whether you're at the office or enjoying a casual day out.",
+      "category": "Women"
+    },
+    {
+      "id": "73a2",
+      "img": "https://m.media-amazon.com/images/I/916Ul7xdTXL._SY879_.jpg",
+      "name": "TRENDMALLS",
+      "oldprice": "7299",
+      "price": "2528",
+      "title": "https://m.media-amazon.com/images/I/916Ul7xdTXL._SY879_.jpg",
+      "description": "Fabrics: Saree Details: Color- Purple || Material Pallu: Barfi Silk || Material Skirt: Barfi Silk\nSaree Length: 5.5 mtr || Saree Work Type: Zari on Embroidery\nBlouse Details: Color-Purple, Material: Barfi Silk, Length: 1 mtr, Work Type: Zari on Embroidery\nWeave Type: Plain|| Package Contents: 1 Saree with Unstitched Blouse Piece\nBorder Details: Border Color-Golden&Pink, Border Work: Embroidery",
+      "category": "Women"
+    },
+    {
+      "id": "e323",
+      "img": "https://m.media-amazon.com/images/I/71FjhY-sRpL._SY879_.jpg",
+      "name": "Vardha",
+      "oldprice": "4299",
+      "price": "2428",
+      "title": "Vardha Women's Banarasi Georgette Silk Saree with Unstitched Blouse Piece - Gold Zari Woven Work Sarees for Wedding",
+      "description": "This Woven Gold Zari Design Saree is made from premium quality banarasi georgette silk material. It comes with an unstitched Brocade Blouse with Gold Zari Border A beautiful colour saree is well crafted with premium quality banarasi georgette silk fabric with Gold Zari work and traditional print. It has a beautiful rich Pallu with a woven Gold Zari design. Saree Length: 6.3 m & Blouse Piece Length: 0.8 m",
+      "category": "Women"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91bxWZ3ZTmL._SY879_.jpg",
+      "name": "MANOHARI",
+      "oldprice": "5650",
+      "price": "3250",
+      "title": "https://m.media-amazon.com/images/I/91bxWZ3ZTmL._SY879_.jpg",
+      "description": "Care Instructions: Dry Clean Only\nSaree Color: Green, Blouse Color: Pink\nSaree Fabric: Banarasi Silk , Blouse Fabric : Malai Silk\nSaree Length: 5.5 Meter , Blouse Length: 0.8 Meter\nSaree comes with unstitched blouse piece,which is attached with end of the saree only. Buyer have to cut blouse part from the saree. Stiching service will not be available. There might be color variation due to screen resolution and digital photography",
+      "category": "Women",
+      "id": "1f17"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81m00qCkFsL._SY741_.jpg",
+      "name": "SAREE MALL",
+      "oldprice": "15799",
+      "price": "3699",
+      "title": "SAREE MALL Women's Zari Woven Design Pure Kanjivaram Banarasi Silk Saree With Unstitched Blouse Piece",
+      "description": "Saree Color : Yellow || Blouse Color : Orange\nSaree Fabric : Pure Kanjivaram Banarasi Silk || Blouse Fabric : Banarasi Silk\nPattern : Woven Design || Pattern Type : Ethnic Motif || Work Details : Tassels and Latkans\nSaree Work - Rich Zari Weaving Saree With Contrast Zari Border\nSaree Length : 5.5 Mtr || Blouse Length : 0.8 Mtr\nPackage Contain : 1 Saree With 1 Unstitched Blouse Piece",
+      "category": "Women",
+      "id": "eb58"
+    },
+    {
+      "id": "7e85",
+      "img": "https://m.media-amazon.com/images/I/71pI+rzR5XL._SY879_.jpg",
+      "name": "Varkala Silk",
+      "oldprice": "13999",
+      "price": "3710",
+      "title": "Varkala Silk Sarees Women's Paithani Soft Silk Kadiyal Double Pallu Saree With Blouse Piece",
+      "description": "Saree details- Saree Color: Purple & Red | Saree Material: 70% Polyester, 30% Silk | Saree Length: 5.5 Mtr | Saree Print: Woven | Saree Work Type: Copper Zari Star Meena Butti\nBlouse details- Blouse Color: Red | Blouse Material: 70% Polyester, 30% Silk | Blouse Length: 0.8 Mtr | Blouse Print: Woven | Blouse Work Type: intricate checks zari border\nBorder & Pallu details- Border Color: Copper | Border Work Type: Intricate Checks Design | Pallu Color: Copper | Pallu Work Type: Copper Zari Woven Muniya & Peacock Motifs",
+      "category": "Women"
+    },
+    {
+      "id": "c463",
+      "img": "https://m.media-amazon.com/images/I/91sFZqTAa-L._SY879_.jpg",
+      "name": "",
+      "oldprice": "9999",
+      "price": "4159",
+      "title": "Zeel Clothing Women's Sequins Work Heavy Georgette Saree with Blouse (Latest-Sequins-Party-Saree",
+      "description": "Pure Georgette Saree with Heavy Sequins Work\nComes with a rich sequins embroidered georgette matching color blouse\nSaree has rich sequins party wear look.\nCan be wear in every occasion like wedding, party, ceremony, evening, reception, haldi ceremony etc\nIt gives designer rich look to your personality.\nSaree Length: 5.25 mtr, Blouse Piece: 0.85 mtr, Saree width : 42 inches",
+      "category": "Women"
+    },
+    {
+      "id": "2b98",
+      "img": "https://m.media-amazon.com/images/I/81RA36xsC0L._SY879_.jpg",
+      "name": "WoodenTant",
+      "oldprice": "4500",
+      "price": "2480",
+      "title": "WoodenTant Women’s Soft Cotton Dhakai Jamdani Saree in Pallu without blouse piece.",
+      "description": "Made of 70 count pure cotton and handloom resham silk and do not use any starch on it .\nThis jamdani Saree length is 5.5 meter and Width is 1.2 meter .\nMade of Art Resham Silk and maslight cotton of Pioneer brand.\nThis is women's soft resham jamdani saree without starch in Beige color without blouse piece all the Design is fully weaved this Dhakai Jamdani saree came with cotton thread work and korat pallu with designer korat border.\nDo not cut any part of the saree to make the blouse piece .Blouse piece is not available",
+      "category": "Women"
+    },
+    {
+      "id": "0e01",
+      "img": "https://m.media-amazon.com/images/I/716Oe6tMv1L._SY879_.jpg",
+      "name": "Monjolika Fashion",
+      "oldprice": "4999",
+      "price": "2695",
+      "title": "Monjolika Fashion Women's Classic Banarasi Woven Work Silk Blend Saree Edition Comes With Unstitched Blouse Piece",
+      "description": "Saree Fabric: Banarasi Woven Silk Blend || Blouse Fabric: Silk Blend\nWork : Zari Woven work || Pallu Design : Emblished Woven Design\nSaree Length: 5.5 Meter || Blouse Length: 0.8 Meter\nPerfect for Event : Festive Wear Saree || Occasional Wear Saree || Traditional Wear Saree || Wedding Wear Saree || Reception Wear Saree || Party Wear Saree\nDisclaimer: There might be color variation due to screen resolution and digital photography.",
+      "category": "Women"
+    },
+    {
+      "id": "a62d",
+      "img": "https://m.media-amazon.com/images/I/719IaPZ3B5S._SY879_.jpg",
+      "name": "Pistaa's",
+      "oldprice": "3599",
+      "price": "999",
+      "title": "Pistaa's women Cotton Striped Straight salwar Suit Set",
+      "description": "Material Composition: Cotton Flex\nDepartment Name: Womens\nAge Range Description: Adult\nItem Length Description: Knee Length\nSleeve Type: 3/4 Sleeve",
+      "category": "Women"
+    },
+    {
+      "id": "e8fd",
+      "img": "https://m.media-amazon.com/images/I/6195VFZHgIL._SX679_.jpg",
+      "name": "BIBA",
+      "oldprice": "4500",
+      "price": "2298",
+      "title": "BIBA SKD Salwar Suit Set",
+      "description": "Color : Green\nFabric : Cotton\nPattern : Printed",
+      "category": "Women"
+    },
+    {
+      "id": "928a",
+      "img": "https://m.media-amazon.com/images/I/71MdWxax2vL._SY879_.jpg",
+      "name": "LIBOZA",
+      "oldprice": "4199",
+      "price": "1499",
+      "title": "LIBOZA Ethnic Salwar Suit Set with Dupatta for Women Black - Heavy Work Kurta Sets with Special Embroidery for Ladies & Girls with Stitched Pant",
+      "description": " Elevate your style with dresses that offer an impeccable fit and luxurious, comfortable materials. Experience the allure of dresses adorned with stunning, intricate patterns and exquisite embroidery that make you stand out. Get the most out of your money with dresses that combine quality, affordability, and exceptional embroidery work for a remarkable deal.",
+      "category": "Women"
+    },
+    {
+      "id": "3b77",
+      "img": "https://m.media-amazon.com/images/I/81sTSy8MD2L._SY741_.jpg",
+      "name": "TRENDMALLS",
+      "oldprice": "4599",
+      "price": "1858",
+      "title": "TRENDMALLS Women's Cotton Embroidery Salwar Suit Set Kurta Sharara with Dupatta Kurta Palazzo Set Stitched Ready To Wear",
+      "description": "Suit Fabric: Kurta: Mono Net ||Plazzo: Chanderi Butti || Inner: Santoon || Dupatta: Mono Net\nColor: Kurta: Off-White|| Salwar: Off-White|| Dupatta: Off-White\nStyle: Kurta Plazzo Suit ||Work Type: Mirror, Sequence Embroidery with Beads Border work Dupatta\nLength: Kurta: 37 In||Salwar 42 In; Waist: 20 In ||Dupatta: 2.25 mt\nStitched Type: Ready to Wear Stitched Salwar Suit ||Package Contents: 1 Kurta; 1 Salwar; 1 Dupatta",
+      "category": "Women"
+    },
+    {
+      "id": "2824",
+      "img": "https://m.media-amazon.com/images/I/718Q0uWC5WL._SY879_.jpg",
+      "name": "RAJMANDIRFABRICS",
+      "oldprice": "4499",
+      "price": "925",
+      "title": "RAJMANDIRFABRICS Women's Cotton Embroidered Kurta Pant With Dupatta",
+      "description": "Fabric :: Cambric Cotton 60x60 With Embroidery & Lace Work\nEmbroidery Work on V neck Border ,Sleeves & Front Fixed Button High Slit and Lace Work All Over Kurta With Printed Pant Attached Solid Chiffon Dupatta Lace Work on Dupatta Border\nPackage Contents :: One Kurta, One Pant and One Dupatta\nSize Guide :: To ensure that our garments fit you well, it is important that you pick the right size. Method to Measure : First, Stand up straight against a wall and spread your arms out wide : Second, Ask your friend to measure you. Note : Overall garment measurements must be 1-2 inches more than your body measurements at the chest and waist level and about 1 inch more at the hip level for a comfortable fit.\nDisclaimer : Colour of the actual product may slightly vary due to different photographic lighting sources or your display color settings or screen type.",
+      "category": "Women"
+    },
+    {
+      "id": "26d1",
+      "img": "https://m.media-amazon.com/images/I/81kuAa1wvXL._SX679_.jpg",
+      "name": "Royal Export",
+      "oldprice": "4999",
+      "price": "999",
+      "title": "Royal Export Women's Skyblue Floral Printed Salwar Suit Set",
+      "description": "Set Fabric: Cotton || Occasion : Festival & Parties\nSet Include : 1 Kurta, 1 Bottom & Dupatta\nLength: Calf || Sleeves: 3/4th\nOcassion: Traditional wear, Casual Wear, party wear, evening wear,Please Click On Brand Name \"Royal Export\" For More Products.\nProduct Color May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings",
+      "category": "Women"
+    },
+    {
+      "id": "f0ad",
+      "img": "https://m.media-amazon.com/images/I/71aFWeb5hSL._SY879_.jpg",
+      "name": "Aryana",
+      "oldprice": "2499",
+      "price": "899",
+      "title": "Arayna Women's Cotton Printed Straight Kurti with Palazzo Pants & Dupatta Set",
+      "description": "Fit Type: Regular; Fabric: 100% Cotton\nKurta Length: 46 Inches\nStyle: Straight Kurta with Palazzo Pants and Dupatta; Design: Printed\nNeck Style: Round Neck; Occasion Type: Evening; Item Length Description: Calf Length; Age Range Description: Adult; Sleeve Type: 3/4 Sleeve\nItem Length Description: Ankle Length",
+      "category": "Women"
+    },
+    {
+      "id": "0c2c",
+      "img": "https://m.media-amazon.com/images/I/51fbzvvqWoL.jpg",
+      "name": "NISHIRE",
+      "oldprice": "1999",
+      "price": "999",
+      "title": "NISHIRE Cotton Handblock Print Style Handwork Dark Color Kurta Pant Set for Women",
+      "description": "Beautiful Stitched 100% Pure Cotton Printed Kurta Pant Dupatta Set for Women\nKurta and Pant Fabric - Cotton , Dupatta Fabric - Mulmul\nWork- Handwork on neckline and printed\nTop Shape: Straight , Bottom Type: Trousers with 1 Pocket, Neck: Round Neck , Top Length: Calf Length ,\nOccasion - Party , Festival , Ethnic , Wedding , Office",
+      "category": "Women"
+    },
+    {
+      "id": "5cbb",
+      "img": "https://m.media-amazon.com/images/I/516x4VqF5GL._SY695_.jpg",
+      "name": "Campus",
+      "oldprice": "1699",
+      "price": "709",
+      "title": "Campus Alexa Running, Walking, Jogging, Gym and Workout Shoes for Women | Stylish Sports Shoes for Women with a Breathable Mesh Upper, Memory Foam Insole and Thick Cushioned Outsole for Extra Comfort",
+      "description": "Shoes' Upper- Step into chic comfort with these women's sneakers. The breathable mesh upper keeps feet cool, while the lace-up closure ensures a secure fit. From college campus to office hustle, and even casual dates – these sneakers suit every stride! Whether you're going out with friends, conquering the office, on your morning runs, or on evening walks, these shoes for women are perfect for every occasion.",
+      "category": "Women"
+    },
+    {
+      "id": "f52b",
+      "img": "https://m.media-amazon.com/images/I/61vRXtZcy7L._SY695_.jpg",
+      "name": "ASIAN",
+      "oldprice": "799",
+      "price": "659",
+      "title": "ASIAN Women's Cute Sports Running Shoes,Walking, Gym Casual Sneaker Lace-Up Shoes for Girl's",
+      "description": "Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience.",
+      "category": "Women"
+    },
+    {
+      "id": "fd91",
+      "img": "https://m.media-amazon.com/images/I/71HzLQOivhL._SX695_.jpg",
+      "name": "Sparx",
+      "oldprice": "1099",
+      "price": "839",
+      "title": "Sparx Womens Sx0167l Running Shoe",
+      "description": "WHAT YOU GET: 1. One Pair of Sports Shoes as shown in the pictures. 2. Storage Box. 3. Sparx Trust.\nMADE OF: High Quality Mesh as upper material and EVA & TPR as sole material.\nKEY FEATURES: Made to Last Long, Elegant Packaging, Perfect Gifting Option, Zero compromise on quality",
+      "category": "Women"
+    },
+    {
+      "id": "eb19",
+      "img": "https://m.media-amazon.com/images/I/51o+27TJjsL._SY695_.jpg",
+      "name": "Puma",
+      "oldprice": "4499",
+      "price": "1559",
+      "title": "Puma Womens Camo Wn S Idp Shoes",
+      "description": "Model Name:-Camo Wn´s IDP\nStyle Name:-Running Shoes\nBrand Color:-Lotus-Dark Shadow\nMaterial Type:-Textile and Rubber\nWipe with a clean dry cloth",
+      "category": "Women"
+    },
+    {
+      "id": "7bd4",
+      "img": "https://m.media-amazon.com/images/I/61fcVae7y9S._SX695_.jpg",
+      "name": "Adidas",
+      "oldprice": "2299",
+      "price": "1844",
+      "title": "adidas Womens Clear Factor W Running Shoe",
+      "description": "Upper Material-Mesh\nPronation-Neutral\nArch Type-Medium\nAnkle Height-Low\nCushioning-Medium",
+      "category": "Women"
+    },
+    {
+      "id": "4871",
+      "img": "https://m.media-amazon.com/images/I/71UpSyYchLL._SY695_.jpg",
+      "name": "Bacca Bucci",
+      "oldprice": "2999",
+      "price": "1499",
+      "title": "Bacca Bucci Women SAVAGE Running Shoes/Sneakers for Running/Gym/Training/Casual Walking Sports Shoe for Girls/women",
+      "description": "BREATHABLE Sneakers: The mesh upper with air vents features outstanding breathability and quick-drying, keeps your feet refreshing without odour. COMFORTABLE Shoes: The shoe lining is filled with sponge, which is soft to the touch and protects the foot. It is not easy to cause discomfort in the foot and worn comfortably",
+      "category": "Women"
+    },
+    {
+      "id": "5eef",
+      "img": "https://m.media-amazon.com/images/I/81n426ej8cL._SX695_.jpg",
+      "name": "Reebook",
+      "oldprice": "2599",
+      "price": "1379",
+      "title": "Reebok Womens Wonder Run W Running Shoe",
+      "description": "single color appealing texture mesh with high quality of yarns and fabric, with attractive gradation dots printing on qtr. and unique design of counter with reebok branding. EVA sockliner- gives you custom comfort while helping to relieve pressure and reduce heel shock by cushioning your every step. SOLE- IM EVA sole offers maximum cushioning and durability. Thick and fat heel provides optimal comfort with superior arch support",
+      "category": "Women"
+    },
+    {
+      "id": "669b",
+      "img": "https://m.media-amazon.com/images/I/91JJerFyYqL._SX695_.jpg",
+      "name": "Power",
+      "oldprice": "1499",
+      "price": "974",
+      "title": "Power Women's BURTON L Running Shoes",
+      "description": "Material Type: Canvas\nLifestyle: Sports\nClosure Type: Lace-Up\nHeel Type: Flats\nToe Style: Closed Toe\nWarranty Type: Manufacturer",
+      "category": "Women"
+    },
+    {
+      "id": "70a5",
+      "img": "https://m.media-amazon.com/images/I/91+ts2yc8dL._SY695_.jpg",
+      "name": "DAZZLE",
+      "oldprice": "7999",
+      "price": "2899",
+      "title": "DAZZLE Pu Leather Elegance Redefined: Pvc Designer Ladies Handbag With Classy Prints, Handle Fittings, And A Stylish Dangler",
+      "description": "Imported Printed PVC Ladies Handbag epitomizes modern luxury with cutting-edge design and functionality Designer handle fittings add glamour and elevate the overall aesthetic\nCrafted from high-quality printed PVC with intricate patterns for contemporary style Vibrant prints and meticulous detailing lend an air of exclusivity",
+      "category": "Women"
+    },
+    {
+      "id": "518f",
+      "img": "https://m.media-amazon.com/images/I/812pGAjVU1L._SY695_.jpg",
+      "name": "BELLISSA",
+      "oldprice": "3099",
+      "price": "1614",
+      "title": "BELLISSA Checkered Printed PU Leather Handbag For Women | Top Handle Shoulder Bag | Adjustable & Detachable Sling Strap | Stylish Designer Handbag For Ladies",
+      "description": "STYLISH & FUNCTIONAL: This stylish medium size dome crossbody purse features adjustable long shoulder strap with top zipper closure that can be worn many different ways. Perfect for those sunny days when carrying a handbag is not an option. Good for both traveling and everyday use.",
+      "category": "Women"
+    },
+    {
+      "id": "9a21",
+      "img": "https://m.media-amazon.com/images/I/61wHdaVvdjL._SY695_.jpg",
+      "name": "EXOTIC",
+      "oldprice": "2999",
+      "price": "1234",
+      "title": "EXOTIC Studded hand bag for women",
+      "description": "Makes a lovely gift for daughters going off to college, girlfriends, graduations, birthdays, anniversaries, and special moments. Keep stylish.",
+      "category": "Women"
+    },
+    {
+      "id": "6494",
+      "img": "https://m.media-amazon.com/images/I/71CId5+DSSS._SY695_.jpg",
+      "name": "Lavie",
+      "oldprice": "3999",
+      "price": "1299",
+      "title": "Lavie Women's Pamukkale Satchel Bag | Ladies Purse Handbag",
+      "description": "Take your styling game a notch higher with this Pamukkale satchel from Lavie’s latest collection. The bag is beautifully crafted for the chic in you to add value to your outfit. Lavie is a brand that has a galaxy of designs to suit every women’s style statment.\n",
+      "category": "Women"
+    },
+    {
+      "id": "0d8a",
+      "img": "https://m.media-amazon.com/images/I/71JFPXHCJ3L._SY695_.jpg",
+      "name": "ZOUK",
+      "oldprice": "4863",
+      "price": "1655",
+      "title": "ZOUK Vegan Leather Handmade Women's Handbags with double handles and detachable Sling Strap",
+      "description": "The bag has a well-stitched inner lining and premium zippers for comfort in accessing and storing items. It also comes with an Adjustable and Detachable Strap",
+      "category": "Women"
+    },
+    {
+      "id": "3e28",
+      "img": "https://m.media-amazon.com/images/I/91Ao672MSxL._SX695_.jpg",
+      "name": "FLYING BERRY",
+      "oldprice": "4000",
+      "price": "1479",
+      "title": "FLYING BERRY women's hand bag",
+      "description": "Material: Polyurethane | Dimensions: 23H x 32L x 10W cm\nClosure Type: Magnetic | Strap Type: Removable\n2 Compartments\n5 Pockets\nCare Instructions: Wipe With A Clean, Dry Cloth To Remove Dust",
+      "category": "Women"
+    },
+    {
+      "id": "7e2e",
+      "img": "https://m.media-amazon.com/images/I/71KPvP11F5L._SY695_.jpg",
+      "name": "Miraggio Hazel",
+      "oldprice": "4499",
+      "price": "1842",
+      "title": "Miraggio Hazel Black Handbag for Women with Detachable & Adjustable Sling Strap",
+      "description": "PREMIUM QUALITY HANDBAG: Crafted from signature - Faux leather comes with quality and durability. It comes in 2 colors with croc-texture. A perfect useful gifts for women.",
+      "category": "Women"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81v7NnTleuL._SY695_.jpg",
+      "name": "RICHSIGN LEATHER",
+      "oldprice": "12999",
+      "price": "2999",
+      "title": "RICHSIGN LEATHER ACCESSORIES Full-Grain Natural Cro Leather Top-Handle satchel Tote Handbags & Shoulder Sling Bags For Women Office Branded Stylish Latest Size- L-12 X H-10 x W- 5 Inch",
+      "description": "Inside - 1 Central Divider Zip Comartment / 1 Zip Pocket / 1 Mobile Pocket & 1 Zip Pocket At Back\nHandle Type: Fixed Solid Full Grain Leather Double Handle With 6 Inch DropDown & Lenght - 16 Inch./ Adjustable & Detachable Shoulder Strap Of 50 Inches.\n",
+      "category": "Women",
+      "id": "2ee9"
+    },
+    {
+      "id": "81b7",
+      "img": "https://m.media-amazon.com/images/I/613BPKVNhUL._SX679_.jpg",
+      "name": "Fossil",
+      "oldprice": "11995",
+      "price": "7197",
+      "title": "Fossil Chronograph Rose Gold Dial Women Watch ES3352 Stainless Steel, Rose Gold Strap",
+      "description": "Dial Color: Rose Gold, Case Shape: Round, Dial Glass Material: Mineral\nBand Color: Rose Gold: Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Chronograph",
+      "category": "Women"
+    },
+    {
+      "id": "439b",
+      "img": "https://m.media-amazon.com/images/I/51ZxHXxC+YL._SX679_.jpg",
+      "name": "Titan",
+      "oldprice": "9945",
+      "price": "7955",
+      "title": "Titan Women Stainless Steel Raga Analog Mother of Pearl Dial Watch-Nm2539Wm01 / Nl2539Wm01/Np2539Wm01, Band Color-Gold",
+      "description": "Dial Color: Mother of Pearl, Case Shape: Round\nBand Color: Gold, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nCase Material: Brass\nWater Resistance Depth: 3 meters\nWarranty type:Manufacturer; 24 Months Manufacturer Warranty",
+      "category": "Women"
+    },
+    {
+      "id": "114e",
+      "img": "https://m.media-amazon.com/images/I/61XTdvy1uhL._SY879_.jpg",
+      "name": "Sonata",
+      "oldprice": "1949",
+      "price": "1124",
+      "title": "Sonata Analog Gold Dial Women's Watch NM8093YM02/NN8093YM02/NP8093YM02",
+      "description": "Dial Color: Gold, Case Shape: Oval\nBand Color: Gold, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nWarranty type: Manufacturer; 12 Months Manufacturer Warranty\nRemove plastic at crown to start the watch\nRecommended for customers looking for a small dial sized watches",
+      "category": "Women"
+    },
+    {
+      "id": "1561",
+      "img": "https://m.media-amazon.com/images/I/61pV1gVdTRL._SL1000_.jpg",
+      "name": "Michael Kors",
+      "oldprice": "35120",
+      "price": "21299",
+      "title": "Michael Kors Analog Gold Dial Women's Watch - MK5354I",
+      "description": "Band Material: Stainless Steel\nStrap Material: Metal\nDial Shape: Round\nBand Colour: Gold\nDial Colour: Gold",
+      "category": "Women"
+    },
+    {
+      "id": "75fb",
+      "img": "https://m.media-amazon.com/images/I/81Fw82U3paL._SY879_.jpg",
+      "name": "Timex",
+      "oldprice": "5645",
+      "price": "3295",
+      "title": "TIMEX Analog Women's Watch",
+      "description": "Case Shape: Round; Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nWater Resistance Depth: 30 meters\nWarranty type:Manufacturer; 1 Year Manufacturer Warranty\nIdeal for birthday, anniversary and wedding gift\nRecommended for customers looking for a small dial sized watches",
+      "category": "Women"
+    },
+    {
+      "id": "2b09",
+      "img": "https://m.media-amazon.com/images/I/619masN+gML._SX679_.jpg",
+      "name": "Giordano",
+      "oldprice": "7990",
+      "price": "3611",
+      "title": "Giordano Analog Stylish Watch for Women Water Resistant Fashion Watch",
+      "description": "Dial Colour: Rose Gold, Shape: Round\nStrap Colour: Rose Gold, Strap Material: Metal\nCase Size: 30 MM, Dial Size 28 MM, Water Resistance Depth 30 Meter\nOne Year International Warranty\nWatch Box displayed in the image is for reference purpose only. Actual box may vary based on availability",
+      "category": "Women"
+    },
+    {
+      "id": "fc58",
+      "img": "https://m.media-amazon.com/images/I/51CANi-e3cL._SL1000_.jpg",
+      "name": "Emporio Armani",
+      "oldprice": "27995",
+      "price": "17996",
+      "title": "Emporio Armani Gianni T-b Analog Mother of Pearl Dial Women's Watch-AR1907",
+      "description": "Dial Color: Mother of Pearl, Case Shape: Round\nBand Color: Gold, Band Material: Stainless Steel\nWatch Movement Type: Quartz, Watch Display Type: Analog\nCase Material: Stainless Steel",
+      "category": "Women"
+    },
+    {
+      "id": "d3dd",
+      "img": "https://m.media-amazon.com/images/I/51YgZn5DMWS._SX679_.jpg",
+      "name": "Citizen",
+      "oldprice": "19900",
+      "price": "17910",
+      "title": "Citizen Eco-Drive Ladies Watch Powered by light - Axiom Collection-GA1052-55E",
+      "description": "Eco- Drive Technology : No need for regular battery replacement\n3 Years 3 Months 3 Days Regional Warranty + 1 Year International Warranty\nThis watch is equipped with a movement, Made in Japan.\nBand Material: Stainless Steel, Glass Material : Mineral Crystal\nWater Resistant 3bar",
+      "category": "Women"
+    },
+    {
+      "id": "e101",
+      "img": "https://m.media-amazon.com/images/I/61GwFZ2HznL._SY695_.jpg",
+      "name": "Joyalukkas",
+      "oldprice": "68419",
+      "price": "64565",
+      "title": "Joyalukkas 22k Gold Drop Earrings for Women",
+      "description": "Joyalukkas 22k Gold Drop Earrings for Women",
+      "category": "Women"
+    },
+    {
+      "id": "68fd",
+      "img": "https://m.media-amazon.com/images/I/61W6TVjaswL._SY695_.jpg",
+      "name": "PC Jeweller",
+      "oldprice": "13292",
+      "price": "12225",
+      "title": "PC Jeweller The Avalee 22KT Yellow Gold Rings",
+      "description": "This ring is made of 22KT yellow gold\nBIS hallmarked\nThe product is 23.38 mm in length and 20.72 mm in width\nThe product comes with manufacturer warranty\nThe product has a 90% buy back value\nThis jewellery piece belongs to the Contemporary collection",
+      "category": "Women"
+    },
+    {
+      "id": "7003",
+      "img": "https://m.media-amazon.com/images/I/61Lv-15zU8L._SY695_.jpg",
+      "name": "Joyalukkas",
+      "oldprice": "9389",
+      "price": "8931",
+      "title": "Joyalukkas 22KT Yellow Gold Drop Earrings for Girls",
+      "description": "The drop earring is made of 22KT yellow gold\nBIS hallmarked\nThe product is 1. 53 cm in length and 0. 5 cm in width\nThe product comes with lifetime warranty\n100% of the fetching gold rate\nThis jewellery piece belongs to Impress Collection",
+      "category": "Women"
+    },
+    {
+      "id": "f01a",
+      "img": "https://m.media-amazon.com/images/I/71dVI9GVedL._SY695_.jpg",
+      "name": "Joyalukkas",
+      "oldprice": "16255",
+      "price": "15347",
+      "title": "Joyalukkas 22k (916) Yellow Gold and Pendant for Girls",
+      "description": "This pendant is made of 22k (916) yellow gold\nThe diamond is certified and has a BIS certificate\nThe product is 2.5 cm in length and 2.5 cm in width\nThis product can be returned in 30 days\nThe chain is not included with the pendant\nBIS Hallmark is NOT a separate certificate, it is an inscription made on the product\nAdditional Information\nManufacturerJoyalukkas\nItem Weight400 g\nGeneric Namependant\n",
+      "category": "Women"
+    },
+    {
+      "id": "e5bb",
+      "img": "https://m.media-amazon.com/images/I/51jHvmt9dnL._SY695_.jpg",
+      "name": "P.C. Chandra Jewellers",
+      "oldprice": "129467",
+      "price": "114385",
+      "title": "P.C. Chandra Jewellers 22k (916) Yellow Gold Necklace for Women 11.66 Grams",
+      "description": "This necklace is made of 22k (916) yellow gold\nBIS hallmarked\nThe product is 28 mm in length and 2.5 mm in width\nThis product can be returned in 30 days\nClosure type is exactly what is shown in the picture",
+      "category": "Women"
+    },
+    {
+      "id": "a0d1",
+      "img": "https://m.media-amazon.com/images/I/61GBScYszbL._SY625_.jpg",
+      "name": "Malabar Gold & Diamonds",
+      "oldprice": "41899",
+      "price": "37129",
+      "title": "Malabar Gold & Diamonds Tushi 22k (916) Purity BIS hallmark certified Yellow Gold Necklace for women",
+      "description": "This choker necklace is made from 22k gold\nProduct length is 16 inches\nThis product is set in 22k gold certified by BIS hallmark",
+      "category": "Women"
+    },
+    {
+      "id": "81fa",
+      "img": "https://m.media-amazon.com/images/I/51R428G3NdL._SY695_.jpg",
+      "name": "P.C. Chandra Jewellers",
+      "oldprice": "123165",
+      "price": "18817",
+      "title": "P.C. Chandra Jewellers 22k (916) Yellow Gold Necklace for Women",
+      "description": "This necklace is made of 22k (916) yellow gold\nBIS hallmarked\nThe product is 18 mm in length and 2.5 mm in width\nThis product can be returned in 30 days",
+      "category": "Women"
+    },
+    {
+      "id": "dab2",
+      "img": "https://m.media-amazon.com/images/I/71LaGEXA1aL._SY695_.jpg",
+      "name": "Malabar Gold & Diamonds",
+      "oldprice": "24299",
+      "price": "21459",
+      "title": "Malabar Gold & Diamonds 22KT Yellow Gold Necklace for Women",
+      "description": "This necklace is made of 22kt yellow gold\nBIS hallmarked\nThe product is 10 inches in length and 25 mm in width\nThe product comes with seller warranty\nProduct dimensions mentioned are on approximation closest to the actual size\nThe product comes with lifetime warranty and can be exchanged at our stores in India, under exchange and buyback brand policy\nAdditional Information\nManufacturerMalabar Gold and Diamonds\nItem Weight1.81 g\nNet Quantity1.00 count\nGeneric Namenecklace\n",
+      "category": "Women"
+    }
+  ],
+  "cart": [],
+  "wishlist": []
+}
